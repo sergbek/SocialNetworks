@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocialNetworks</string>
+    <string name="googlePlus">Google+</string>
+    <string name="twitter">Twitter</string>
+    
+    <string name="facebook_app_id">542224609266285</string>
+    <integer name="com_vk_sdk_AppId">5134437</integer>
+    <string name="facebook">Facebook</string>
+    <string name="post_text">Post Text</string>
+    <string name="post_Photo">Post Photo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="status">Status</string>
+    <string name="share">SHARE</string>
+    <string name="send_tweet">send Tweet</string>
+    <string name="vk">VK</string>
+    <string name="sign_in">sign IN</string>
+</resources>
